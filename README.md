@@ -1,5 +1,5 @@
 # Learning Python 3
-Notes where I learn python
+Notes learning python
 
 ### Install python 3 with HomeBrew
 _Only for MacOs_
