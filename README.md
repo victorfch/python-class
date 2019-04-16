@@ -9,5 +9,5 @@ brew install python3
 
 ### Execute
 ```
-python3 hello.py
+python3 file.py
 ```
