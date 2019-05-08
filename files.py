@@ -1,0 +1,6 @@
+myFile = open("myTextFile.txt", "a")
+myFile.write("test")
+myFile.write("\n")
+myFile.write("test2")
+myFile.write("\n")
+myFile.close()
